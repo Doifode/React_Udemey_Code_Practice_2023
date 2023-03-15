@@ -1,0 +1,6 @@
+  
+  // here we can print variable using curley braces in jsx 
+  // but we can not able to  print the object/booolean 
+  // in case we print such of them we end up getting an error in console
+  // when we used to print array the array will be print direct ly with their all elements withour comma
+  // we can also use curley braces to write javascript expressiont like 

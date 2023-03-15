@@ -1,0 +1,14 @@
+for sharing function and we use import and export statements
+There are two types of export system
+1. Default export 
+Default statement use to share only one function or variable
+In Default statement we can rename them while importing in the importing file
+
+2. Named Export
+    Named export statement use when we have to use or export more than one function  variable
+ In Named statement we cant able to rename it while importing in the importing  file.
+
+
+ //////////////////-----------IMP-----------/////////////////////
+ Main function of using import and export are to create components 
+

@@ -1,0 +1,18 @@
+This app is simple this app covers the all the basic topics that have been  lerned 
+first i create a portfolio.js werer the cards are actually gonn have means the code of the card
+then the function component is exported ;
+this component uses the props concept to render different content in the card ui 
+in this jsx we happen to use bulma css like bootstrape 
+and also props are used in it to change the content from it ;
+
+
+App.js
+
+app.js is our parent component 
+props are one way communication thing 
+we can only pass data from the parent to child with using the props.
+in parent file we have to import the child component by using import statement and store it in to variable and use that variable
+also in app.js file we have imported the images as well and store them in to variable like their path and the all information  
+also the  bulma  css is also imported  inside the  app.js file by using the import statement
+
+
