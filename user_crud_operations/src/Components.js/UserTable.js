@@ -6,7 +6,7 @@ const UserTable = () => {
   const deletUsers=(id)=>{
     deleteUserById(id)
   }
-  // const editUser =(id)=>{
+  // const editUser =(id)=>{                                                                                                                        
   //   EditUser(id)
 
   // }
