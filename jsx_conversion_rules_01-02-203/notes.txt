@@ -1,9 +1,0 @@
-rule1 we have to use camelcase when it comes to use attributes of any tag
-rule2 we have to use curley bracess when the tag or elements need to use or get number type
-rule3 when the atributes need  the boolean value true means attribute it self and  false have to define 
-rule4 we have to use className instead of the class as usually we use in the html
-rule5 we have to use object when we give inline css to any element 
-
-
-
-
